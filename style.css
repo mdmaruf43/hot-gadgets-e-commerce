@@ -4,6 +4,10 @@ body{
 .container{
     margin-bottom: 100px;
 }
+.navbar-nav{
+    font-size: 18px;
+    font-weight: 700;
+}
 .background-img{
     background-image: url('./images/bg.png');
     background-repeat: no-repeat;
@@ -41,5 +45,12 @@ body{
 .text-small{
     font-size: 22px;
     color: #FF8319;
+}
+
+.box-shadow{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    margin: 20px;
 }
 
