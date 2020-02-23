@@ -8,6 +8,10 @@ body{
     font-size: 18px;
     font-weight: 700;
 }
+.carousel-indicators li{
+    background-color: #FF9C35;
+    height: 6px;
+}
 .background-img{
     background-image: url('./images/bg.png');
     background-repeat: no-repeat;
