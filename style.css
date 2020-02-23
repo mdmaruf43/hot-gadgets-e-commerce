@@ -44,13 +44,24 @@ body{
 }
 .text-small{
     font-size: 22px;
-    color: #FF8319;
+    color: #FF9C35;
 }
 
 .box-shadow{
     border: none;
     border-radius: 10px;
     box-shadow: 5px 5px 10px lightgray;
-    margin: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.row{
+    margin-top: 50px;
+}
+span{
+    border-bottom: 5px solid #FF9C35;
+    border-bottom-width: 5px;
+}
+footer{
+    text-align: center;
 }
 
