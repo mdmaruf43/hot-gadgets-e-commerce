@@ -61,9 +61,50 @@ body{
 .row{
     margin-top: 50px;
 }
-span{
+.para{
+    padding-top: 3%;
+}
+#about{
+    background-color: rgb(242, 247, 250);
+}
+.h-top{
+    padding-top: 10px;
+}
+.t-bold{
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+.t-color{
+    font-size: 1.2rem;
+    color: rgb(4, 139, 207);
+    font-weight: 400;
+}
+.t-para{
+    margin-top: 2%;
+    padding-bottom: 5%;
+}
+.l-tag{
+    background-color: rgb(4, 139, 207);
+    border: none;
+    border-radius: 8px;
+    padding: 15px 60px;
+    cursor: pointer;
+}
+.anochre{
+    margin-top: 5%;
+}
+.anochre a{
+    text-decoration: none;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+.b-bottom{
     border-bottom: 5px solid #FF9C35;
     border-bottom-width: 5px;
+}
+#highlight{
+    color: rgb(4, 139, 207) !important;
 }
 footer{
     text-align: center;
